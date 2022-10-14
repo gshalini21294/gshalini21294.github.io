@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Shalini Gupta</title>
+    <link>https://gshalini21294.github.io/publication/</link>
+      <atom:link href="https://gshalini21294.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gshalini21294.github.io/media/icon_hu30f53613e622ab1d70269ba37efb55a1_26477_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://gshalini21294.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A helicase-tethered ORC flip enables bidirectional helicase loading</title>
+      <link>https://gshalini21294.github.io/publication/elife_2021/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gshalini21294.github.io/publication/elife_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism and kinetics of aztreonam hydrolysis catalyzed by class-C β-lactamase: A temperature-accelerated sliced sampling study</title>
+      <link>https://gshalini21294.github.io/publication/phys_chem_2018/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://gshalini21294.github.io/publication/phys_chem_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
